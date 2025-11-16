@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "setup": "./conductor-setup.sh",
+    "run": "pnpm dev --port $CONDUCTOR_PORT",
+    "archive": ""
+  },
+  "runScriptMode": "nonconcurrent"
+}
