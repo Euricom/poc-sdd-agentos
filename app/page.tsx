@@ -1,10 +1,11 @@
+import { HeroSection } from '@/components/HeroSection';
+import { GallerySection } from '@/components/GallerySection';
+
 export default function HomePage() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Agent Hub</h1>
-        <p className="text-xl text-gray-600">Coming Soon</p>
-      </div>
+    <main className="min-h-screen">
+      <HeroSection />
+      <GallerySection />
     </main>
   );
 }

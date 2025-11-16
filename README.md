@@ -91,3 +91,11 @@ Once your agent has collected the basic details it needs, i
   - tech stack: `agent-os/product/tech-stack.md`
 
 **Important**: Review and edit the generated documentation to ensure it accurately reflects your vision and goals.
+
+**Create a new feature**
+
+```prompt
+/shape-spec
+```
+
+Once your agent has collected the basic details it needs, i

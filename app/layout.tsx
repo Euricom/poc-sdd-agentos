@@ -5,8 +5,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Agent Hub',
-  description: 'Browse and share Claude Code agents',
+  title: 'Agent Hub - Browse and Discover Claude Code Agents',
+  description: 'Browse and discover powerful Claude Code agents to supercharge your development workflow',
 };
 
 export default function RootLayout({
