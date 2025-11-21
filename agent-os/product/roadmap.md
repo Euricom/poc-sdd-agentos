@@ -10,7 +10,7 @@
 ## Phase 1: MVP - Frontend with Mock Data
 
 1. [x] Homepage with Agent Gallery - Display a grid of agent file cards with name, description preview, and basic metadata using static mock data `M`
-2. [ ] Agent File Detail Page - Create individual agent pages showing full description, complete file content in a formatted code block, and metadata `S`
+2. [x] Agent File Detail Page - Create individual agent pages showing full description, complete file content in a formatted code block, and metadata `S`
 3. [ ] Copy to Clipboard Functionality - Implement one-click copy button that copies full agent file content to clipboard with user feedback `XS`
 4. [ ] Agent Upload Form - Build a form with fields for file name, description, and content textarea that simulates posting (no persistence) `S`
 5. [x] Responsive Layout - Ensure all pages work seamlessly on mobile, tablet, and desktop devices using Tailwind CSS responsive utilities `S`
